@@ -9,6 +9,5 @@
         android:text="@string/button_text"
         android:id="@+id/button"
         android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true"
-        android:onClick="runNotification()"/>
+        android:layout_centerHorizontal="true" />
 </RelativeLayout>
