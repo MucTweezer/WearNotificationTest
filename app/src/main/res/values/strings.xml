@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WearNotificationTest</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="button_text">Third Notify</string>
+    <string name="button_response">Notification!</string>
+</resources>
